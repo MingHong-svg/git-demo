@@ -1,6 +1,6 @@
 hello git-demo -------demo
-hello git-demo -------demo ÎÒÊÇÄ³¼Ö
-hello git-demo -------demo
+hello git-demo -------demo xiaojia
+hello git-demo -------demo localhost
 hello git-demo -------demo
 hello git-demo -------demo
 hello git-demo -------demo
